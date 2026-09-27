@@ -1,0 +1,9 @@
+﻿# Executável compilado
+*.exe
+
+# Arquivo de projeto AGK
+*.agk
+
+# Arquivos temporários
+*.bak
+*.tmp
